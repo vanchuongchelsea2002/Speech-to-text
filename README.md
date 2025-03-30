@@ -1,1 +1,1 @@
-Speech-to-Text Model Setup
+Setting up the pipeline for Speech-to-Text tasks
