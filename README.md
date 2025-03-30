@@ -1,1 +1,1 @@
-speech to text settings
+Speech-to-Text Model Setup
